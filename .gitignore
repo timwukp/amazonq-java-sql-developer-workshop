@@ -1,0 +1,45 @@
+# PDF files - not part of the project
+*.pdf
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Build artifacts (if any)
+target/
+build/
+dist/
+out/
+
+# Node modules (if any)
+node_modules/
+
+# Backup files
+*.bak
+*.backup
+
+# Personal notes
+notes.txt
+todo.txt
+personal/
